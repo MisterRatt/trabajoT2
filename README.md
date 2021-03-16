@@ -1,2 +1,2 @@
 # trabajoT2
- proyecto eb 2º trimestre
+ Proyecto Web 2º Trimestre Christian García Cózar
